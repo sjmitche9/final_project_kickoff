@@ -1,0 +1,1 @@
+### This repository contains the lecture/tutorial material for the final project kickoff.
